@@ -4,7 +4,10 @@ export default function Navbar() {
   //   const [fullScreen, setFullScreen] = useState(true);
   return (
     <>
-      <nav className="relative flex items-center justify-center  h-screen  ">
+      <nav
+        id="nav"
+        className="relative flex items-center justify-center  h-screen  "
+      >
         <video
           className="absolute top-0 left-0 w-full h-full object-cover "
           autoPlay
@@ -18,9 +21,9 @@ export default function Navbar() {
             <source src="/videos/mountains.mp4" type="video/mp4" />
           </video>
         </div>
-        <a href="#projects" className="absolute right-1/13">
+        <a href="#projects" className="absolute right-1/13 group">
           <img
-            className=" relative  h-12 "
+            className=" relative  h-12 group-hover:scale-110 transition-transform duration-150 "
             src="/imgs/arrow_circle_down.svg"
             alt=""
           />
