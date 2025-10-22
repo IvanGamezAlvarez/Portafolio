@@ -1,16 +1,27 @@
-# React + Vite
+## 🧑‍💻 Ivan Gamez — Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website, built with React and Vite.
+This project showcases some of my featured works and technical projects, along with my experience and skills as a developer.
 
-Currently, two official plugins are available:
+🚀 Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React – Front-end library for building user interfaces
 
-## React Compiler
+Vite – Fast and modern development environment
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+JavaScript (ES6+) – Core language
 
-## Expanding the ESLint configuration
+HTML5 & CSS3 / Tailwind CSS – For structure and styling
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Git & GitHub – Version control and deployment
+
+💡 About the Project
+
+This portfolio was created to present my projects and personal development journey.
+It includes sections such as:
+
+🧭 About Me — A short introduction to who I am and what I do
+
+💼 Projects — A showcase of selected works and coding projects
+
+🛠 Skills — Technologies and tools I use regularly
