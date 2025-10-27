@@ -8,9 +8,8 @@ function Skills() {
         Skills:
       </h2>
 
-      <div className=" h-auto grid grid-cols-4 gap-1 mx-10 py-10 md:grid-cols-5  md:mx-20 lg:grid-cols-9 lg:mx-30">
+      <div className=" h-auto grid grid-cols-2 gap-1 mx-10 py-10 md:grid-cols-5  md:mx-20 lg:grid-cols-9 lg:mx-30">
         {skills.map((skill) => {
-          console.log(skill);
           return <SkillElement key={skill.id} data={skill} />;
         })}
       </div>

@@ -5,7 +5,7 @@ function AboutMe() {
     <>
       <div>
         <div className="bg-[url('/imgs/sky.jpg')] bg-center bg-cover p-10 bg-fixed text-white text-center">
-          <h2 className=" text-4xl font-bold text-left  ">About Me:</h2>
+          <h2 className=" text-4xl font-bold text-left mb-5  ">About Me:</h2>
           <img
             className=" aspect-square h-130 object-cover rounded-full m-auto  "
             src="/imgs/IvanGamez.jpg"
@@ -26,7 +26,7 @@ function AboutMe() {
                 Universidad Marista de Guadalajara | Bacheloran digital
                 animation and videogames
               </p>
-              <p>Bootcamp Generation México | Java Fullstack Developer</p>
+              <p>Bootcamp Generation México | Java Fullstack Developer </p>
               <h3 className=" font-semibold m-3 text-xl"> Cerifications:</h3>
               <ul>
                 <li>React Js | CoderHouse</li>

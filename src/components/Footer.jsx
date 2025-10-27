@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <div className=" h-30 bg-gray-950">
+    <div className=" h-40 bg-gray-950 p-10 ">
       <a href="#nav">
         <img
           className=" h-12 rotate-180 m-auto"

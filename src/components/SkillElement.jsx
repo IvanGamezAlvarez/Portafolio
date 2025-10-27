@@ -20,7 +20,7 @@ function SkillElement({ data }) {
   return (
     <div
       ref={divRef}
-      className="shadow-lg h-full  border-white aspect-square  flex items-center justify-center transition-all duration-300   "
+      className="shadow-lg h-full  border-white aspect-square  flex items-center justify-center transition-all duration-300 bg-black   "
       onMouseEnter={(e) =>
         (e.currentTarget.style.backgroundColor = data.backgroundColor)
       }
